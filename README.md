@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Uma viagem ao Chile e Argentina, em companhia da IA 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Na iminência de realizar uma viagem e por conta do estudo e aprendizado que o Bootcamp me proporcionou, decidi montar um roteiro 100% via IA, incluindo na pesquisa regras para ficar de acordo com a minha necessidade para realizar a viagem.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+Microsoft Copilot: inseri no Copilot a solicitação de pesquisa, estabelecendo regras para a resposta.
+
+Microsoft Power Point: incluí no Power Point todo o roteiro montado pelo Copilot.
+
+Unplash e Google imagens: pesquisa e captura de imagens.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Solicitei em pesquisa ao Copilot que me trouxesse um roteiro de viagem de 10 dias, com sugestões de lugares para passeio, café da manhã e almoço, incluindo os valores e a soma total ao final do dia.
+
+De início incluí uma pesquisa genérica e ele me trouxe 5 questões para responder antes de prosseguir com a resposta. Diante disso, incluí que gostaria que exibisse cada dia da viagem em um slide separado, com a soma dos valores ao final.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+O resultado está apresentado no arquivo anexo “roteiro_viagem.ppt”
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Trabalhar com IA foi uma experiência incrível, porque me mostrou como a comunicação é importante em todos os setores da vida e a IA não mostrou-se diferente. Saber o que e como perguntar pode me trazer retornos fantásticos e não imagináveis, pois algo que você não havia pensado pode vir em uma resposta ao Copilot ou ChatGPT.
