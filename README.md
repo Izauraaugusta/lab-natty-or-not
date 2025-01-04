@@ -22,6 +22,10 @@ De início incluí uma pesquisa genérica e ele me trouxe 5 questões para respo
 
 O resultado está apresentado no arquivo anexo “roteiro_viagem.ppt”
 
+![image](https://github.com/user-attachments/assets/e3c7c55d-a9d3-4903-854e-097d914a825f)
+
+[roteiro_viagem.pptx](https://github.com/user-attachments/files/18304726/roteiro_viagem.pptx)
+
 ## 💭 Reflexão (Opcional)
 
 Trabalhar com IA foi uma experiência incrível, porque me mostrou como a comunicação é importante em todos os setores da vida e a IA não mostrou-se diferente. Saber o que e como perguntar pode me trazer retornos fantásticos e não imagináveis, pois algo que você não havia pensado pode vir em uma resposta ao Copilot ou ChatGPT.
